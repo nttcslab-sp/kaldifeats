@@ -1,0 +1,3 @@
+scipy
+numpy
+kaldiio>=2.0

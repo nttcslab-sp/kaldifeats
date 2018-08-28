@@ -1,0 +1,6 @@
+.cache
+.idea
+.pyc
+.eggs
+.ipynb_checkpoints
+__pycache__
