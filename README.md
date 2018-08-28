@@ -21,10 +21,6 @@ numpy
 kaldiio
 ```
 
-## TODO
-- Implement istft(just to use scipy.signal.istft with sligtly changes)
-
-
 ## Ref
 
 - https://github.com/scipy/scipy/blob/master/scipy/signal/spectral.py
