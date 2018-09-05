@@ -18,7 +18,7 @@ Pure python modules for audio feature extractor, e.g. `log-fbank-feats`, `mfcc`,
 python3.6
 scipy
 numpy
-kaldiio
+kaldiio (pip install git+https://github.com/nttcslab-sp/kaldiio)
 ```
 
 ## Ref
